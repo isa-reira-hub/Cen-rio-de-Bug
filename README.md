@@ -59,8 +59,8 @@ Possíveis Causas:
 - Erros no código do lado do servidor.
 #
 ### Após identificado:
-- abrir um card com as especificações do bug
-- notificar o time
-- ficar dispónível para qualquer dúvida remanescente
+- Com base nas informações coletadas, abra um card ou relatório de bug com as especificações detalhadas.
+- Notifique a equipe de desenvolvimento para que eles possam investigar e corrigir o problema.
+- Ficar dispónível para qualquer dúvida remanescente.
 
 
